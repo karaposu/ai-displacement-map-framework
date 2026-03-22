@@ -60,10 +60,13 @@ Not everything gets automated at the same speed. Here's the general order:
 
 | Phase | What Gets Automated | Timeline |
 |---|---|---|
-| **Phase 1: Routing** | Moving information from place to place. Notifications, status updates, scheduling, forwarding, simple Q&A. | Already happening / 0–6 months |
-| **Phase 2: Routine Actions** | Repetitive tasks that follow clear patterns. Grading, basic editing, report generation, data analysis, simple coding tasks. | 6–18 months |
-| **Phase 3: Judgment + Creative Actions** | Tasks requiring context, taste, or expertise. Personalized teaching, creative direction, strategic advising. AI assists heavily but humans still steer. | 1–3 years |
-| **Phase 4: Physical Actions** | Anything requiring a body in the real world. Construction, surgery, hands-on repair. Requires robotics, not just AI. | 3–10+ years |
+| **Phase 1: Routing** | Moving information from place to place. Notifications, status updates, scheduling, forwarding, simple Q&A. | 1 year |
+| **Phase 2: Routine Actions** | Repetitive tasks that follow clear patterns. Grading, basic editing, report generation, data analysis, simple coding tasks. | ~2 years |
+| **Phase 3: Judgment + Creative Actions** | Tasks requiring context, taste, or expertise. Personalized teaching, creative direction, strategic advising. AI assists heavily but humans still steer. | ~3 years |
+
+**Why these timelines?** The technology often arrives faster than adoption. Even when AI *can* do something, there's a lag of 6–12 months before most people and businesses actually start using it. Unless your job is directly tied to AI, the impact hits later than the capability suggests. These timelines reflect real-world adoption, not just technical readiness.
+
+**A note on acceleration**: Each year of AI progress now compresses what used to take much longer. Year 3 doesn't feel like year 3; it feels like a decade of change. The compounding nature of AI improvement means the gap between phases gets shorter, not longer.
 
 ### Step 4: Identify the Human Experience Layer
 
@@ -103,7 +106,7 @@ Steps 1–5 analyze the job or business in isolation. But nothing exists in a va
 
 **The key rule**: The focus stays on what you're analyzing. You're not trying to map every role in the ecosystem. You're asking: *"Given that the environment around this job or business is also improving with AI, how does that accelerate or change the displacement?"*
 
-**How it affects the timeline**: The Environment Multiplier is slow at first and fast later. In the early phases (6–18 months), most of the environment is still human-operated, so internal AI adoption is the main driver of change. But as you look further out (2–5 years), the environment catches up, and the compounding effects kick in hard. This is why 3-year predictions often look conservative in hindsight: they underestimate the ecosystem effect.
+**How it affects the timeline**: The Environment Multiplier is slow at first and fast later. In the early phase (~1 year), most of the environment is still human-operated, so internal AI adoption is the main driver of change. But as you look further out (~2–3 years), the environment catches up, and the compounding effects kick in hard. This is why even short-term predictions often look conservative in hindsight: they underestimate the ecosystem effect.
 
 **Example patterns**:
 
@@ -118,34 +121,34 @@ Steps 1–5 analyze the job or business in isolation. But nothing exists in a va
 
 Pick any job or business. Run it through the six steps. You'll end up with a clear picture across time:
 
-- **What disappears first** (6–18 months): The routing and routine action layers. These are first to go. At this stage, the environment is mostly still human, so the impact comes mainly from internal AI adoption.
-- **What transforms next** (1–3 years): The judgment and creative layers. These don't disappear; they get augmented. The role or operation becomes 10x more effective with AI, but human oversight is still needed. The environment is starting to catch up, with clients, partners, and vendors adopting AI too, creating new compound effects.
+- **What disappears first** (~1 year): The routing and routine action layers. These are first to go. At this stage, the environment is mostly still human, so the impact comes mainly from internal AI adoption.
+- **What transforms next** (~2–3 years): The judgment and creative layers. These don't disappear; they get augmented. The role or operation becomes 10x more effective with AI, but human oversight is still needed. The environment is catching up fast, with clients, partners, and vendors adopting AI too, creating powerful compound effects.
 - **What's protected for now** (current generation): The human experience layer. Wherever people value the process over the outcome, the job survives in some form.
-- **What eventually shifts** (5–15 years): Even the experience layer. New generations redefine what "human experience" means. And by this point, the entire environment is AI-powered, so the compound effects of the Environment Multiplier are fully active. The job or business either evolves into something new or gets replaced by entirely different activities that fulfill the same human need.
+- **What eventually shifts** (next generation): Even the experience layer. New generations redefine what "human experience" means. And by this point, the entire environment is AI-powered, so the compound effects of the Environment Multiplier are fully active. The job or business either evolves into something new or gets replaced by entirely different activities that fulfill the same human need.
 
 ---
 
 ## Example: Photographer
 
-| Layer | Current State | 6–18 months | 3–5 years | 10+ years (generational shift) |
+| Layer | Current State | ~1 Year | ~2 Years | ~3 Years |
 |---|---|---|---|---|
 | **Information Access** | Client calls, browses references manually | AI analyzes client's Instagram, auto-generates mood boards | Fully automated client profiling before first contact | Irrelevant. The role has transformed |
 | **Routing** | Back-and-forth emails about scheduling, pricing, delivery | Fully automated | Fully automated | Fully automated |
 | **Routine Actions** | Editing, color correction, sorting shots | AI handles 90% of editing | AI handles all post-production | No human editing exists |
 | **Judgment/Creative** | Choosing angles, directing poses, reading the mood | AI suggests, human decides | AI generates full mock-ups; human curates and directs on-set | AI generates entire photorealistic scenes from prompts |
-| **Human Experience** | The birthday shoot is a *memory*. People want to be there, laugh, feel something | **Still strong.** Current generation values the real experience | **Starting to thin.** Younger clients are comfortable with AI-generated content for many use cases | **Shifted.** The generation that grew up with AI photos doesn't see "hiring a photographer" as a special experience. They find other ways to create memories. The human need for experience survives, but the photographer as we know them doesn't |
-| **Environment Multiplier** | Clients find photographers manually; venues, stylists, and print shops are all human-operated | Low impact. Clients use AI for mood boards but still interact with the photographer directly | **Accelerating.** Clients have their own AI image tools for everyday content. Social media platforms auto-generate styled photos. The photographer's low-end market (product shots, headshots, social content) evaporates because the *client's* AI can do it | **Full compound effect.** Venues have AI that generates virtual staging. Clients generate event visuals themselves. Print and publishing are AI-driven. The entire ecosystem around photography is automated, leaving only the irreducible human experience niche |
+| **Human Experience** | The birthday shoot is a *memory*. People want to be there, laugh, feel something | **Still strong.** Current generation values the real experience | **Starting to thin.** Younger clients are comfortable with AI-generated content for many use cases | **Thinning fast.** The generation growing up with AI photos starts to see "hiring a photographer" differently. They find other ways to create memories |
+| **Environment Multiplier** | Clients find photographers manually; venues, stylists, and print shops are all human-operated | Low impact. Clients use AI for mood boards but still interact with the photographer directly | **Accelerating.** Clients have their own AI image tools for everyday content. The photographer's low-end market (product shots, headshots, social content) evaporates because the *client's* AI can do it | **Compounding hard.** Social media platforms auto-generate styled photos. Venues have AI staging. The entire ecosystem around photography is automating, leaving only the high-end experience niche |
 
 ## Example: Teacher
 
-| Layer | Current State | 6–18 months | 3–5 years | 10+ years (generational shift) |
+| Layer | Current State | ~1 Year | ~2 Years | ~3 Years |
 |---|---|---|---|---|
 | **Information Access** | Reviews curriculum, reads textbooks, prepares lessons | AI auto-prepares lesson plans, adapts to class level | AI generates fully personalized curricula per student | AI knows each student better than any teacher could |
 | **Routing** | Communicates grades, coordinates with staff, updates records | Fully automated | Fully automated | Fully automated |
 | **Routine Actions** | Grading, creating quizzes, tracking progress | AI grades in real-time, identifies weak spots per student | AI runs continuous assessment. No more "test days" | All evaluation is continuous and invisible |
 | **Judgment/Creative** | Explaining difficult concepts, adapting to struggling students, inspiring curiosity | AI assists with targeted questions and Socratic prompts | AI handles most 1-on-1 tutoring; teacher focuses on group dynamics and mentorship | AI tutors are genuinely better at personalized teaching than most humans |
-| **Human Experience** | Kids need connection, mentorship, socialization. School is growing up, not just learning. | **Still strong.** Parents and society value schools as social institutions | **Starting to shift.** Early-adopter families teach kids with AI at home. Homeschool + AI becomes a serious option | **Generational shift.** Parents who grew up with AI tutors see AI education as normal. Schools still exist but look radically different, more like social clubs than lecture halls |
-| **Environment Multiplier** | Parents, textbook publishers, and school administrators are all human-operated. The student's learning environment is mostly offline | Low direct impact. Some students start using AI tutors at home, but the classroom experience is unchanged | **Accelerating.** Students arrive with AI tutors that already know their strengths and gaps. Parents get real-time AI dashboards on their kid's progress, and they start asking: "Why is the classroom slower than what my kid gets at home?" Textbook publishers are replaced by AI-generated, personalized curricula. The teacher's role is pressured from all sides because the *environment* is now smarter than the classroom | **Full compound effect.** Every student has a personalized AI tutor. Parents monitor learning in real-time. Curriculum adapts daily per student. The classroom's remaining value is purely social; the knowledge-delivery function has been entirely absorbed by the student's own AI environment |
+| **Human Experience** | Kids need connection, mentorship, socialization. School is growing up, not just learning | **Still strong.** Parents and society value schools as social institutions | **Starting to shift.** Early-adopter families teach kids with AI at home. Homeschool + AI becomes a serious option | **Shifting faster than expected.** Parents who see their kid learning faster with AI start questioning classroom value. Schools feel the pressure |
+| **Environment Multiplier** | Parents, textbook publishers, and school administrators are all human-operated. The student's learning environment is mostly offline | Low direct impact. Some students start using AI tutors at home, but the classroom experience is unchanged | **Accelerating.** Students arrive with AI tutors that already know their strengths and gaps. Parents get real-time AI dashboards on their kid's progress, and they start asking: "Why is the classroom slower than what my kid gets at home?" | **Compounding hard.** Every student has a personalized AI tutor. Textbook publishers are replaced by AI-generated curricula. The teacher's role is pressured from all sides because the *environment* is now smarter than the classroom |
 
 ---
 

@@ -10,13 +10,7 @@ For a while, we've been trying to figure out how AI will change the world. Not o
 
 Our early approach was wrong. We were thinking bottom-up: "Engineers can now do X, drivers can now do Y, designers can now do Z…" This gets overwhelming fast. Too many details, too many variables, too many moving parts. You end up with scattered observations instead of a coherent picture.
 
-What we were missing was a logical foundation: a core principle that explains *how* AI actually changes things, and a framework built on that principle, so we can reason clearly about what's coming instead of guessing.
-
-## The Approach: Top-Down Thinking
-
-Instead of cataloging every specific change (bottom-up), we start from first principles. Understand the fundamental ways AI affects our world, then use those principles to make accurate predictions about any specific scenario.
-
-This framework is a top-down tool. It gives you a repeatable way to reason about any job, any business, any industry, any timeline, without getting lost in the details.
+What we were missing was a change in approach: instead of tracking surface-level changes, understand the underlying dynamics of how AI reshapes work, break those dynamics into measurable components, and use that as a repeatable methodology to predict what's coming for any job, any business, any industry.
 
 ## The Core Hypothesis
 
@@ -143,25 +137,119 @@ Pick any job or business. Run it through the six steps. You'll end up with a cle
 
 ## Example: Photographer
 
-| Layer | Current State | ~1 Year | ~2 Years | ~3 Years |
-|---|---|---|---|---|
-| **Information Access** | Client calls, browses references manually | AI analyzes client's Instagram, auto-generates mood boards | Fully automated client profiling before first contact | Irrelevant. The role has transformed |
-| **Routing** | Back-and-forth emails about scheduling, pricing, delivery | Fully automated | Fully automated | Fully automated |
-| **Routine Actions** | Editing and color correction already ~95% AI-assisted. Remaining: album layout, file formatting, delivery, and print preparation | Most remaining routine steps automated | Full post-production pipeline is AI-driven end to end | No human involvement in any routine step |
-| **Judgment/Creative** | Choosing angles, directing poses, reading the mood | AI suggests, human decides | AI generates full mock-ups; human curates and directs on-set | AI generates entire photorealistic scenes from prompts |
-| **Human Experience** | The birthday shoot is a *memory*. People want to be there, laugh, feel something | **Still strong.** Current generation values the real experience | **Starting to thin.** Younger clients are comfortable with AI-generated content for many use cases | **Thinning fast.** The generation growing up with AI photos starts to see "hiring a photographer" differently. They find other ways to create memories |
-| **Environment Multiplier** | Clients find photographers manually; venues, stylists, and print shops are all human-operated | Low impact. Clients use AI for mood boards but still interact with the photographer directly | **Accelerating.** Clients have their own AI image tools for everyday content. The photographer's low-end market (product shots, headshots, social content) evaporates because the *client's* AI can do it | **Compounding hard.** Social media platforms auto-generate styled photos. Venues have AI staging. The entire ecosystem around photography is automating, leaving only the high-end experience niche |
+### Current State
+
+**Information Access:** Client calls, browses references manually.
+
+**Routing:** Back-and-forth emails about scheduling, pricing, delivery.
+
+**Routine Actions:** Editing and color correction already ~95% AI-assisted. Remaining: album layout, file formatting, delivery, and print preparation.
+
+**Judgment/Creative:** Choosing angles, directing poses, reading the mood.
+
+**Human Experience:** The birthday shoot is a *memory*. People want to be there, laugh, feel something.
+
+**Environment:** Clients find photographers manually; venues, stylists, and print shops are all human-operated.
+
+### ~1 Year
+
+**Information Access:** AI analyzes client's Instagram, auto-generates mood boards.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** Most remaining routine steps automated.
+
+**Judgment/Creative:** AI suggests, human decides.
+
+**Human Experience:** Still strong. Current generation values the real experience.
+
+**Environment:** Low impact. Clients use AI for mood boards but still interact with the photographer directly.
+
+### ~2 Years
+
+**Information Access:** Fully automated client profiling before first contact.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** Full post-production pipeline is AI-driven end to end.
+
+**Judgment/Creative:** AI generates full mock-ups; human curates and directs on-set.
+
+**Human Experience:** Starting to thin. Younger clients are comfortable with AI-generated content for many use cases.
+
+**Environment:** Accelerating. Clients have their own AI image tools for everyday content. The photographer's low-end market (product shots, headshots, social content) evaporates because the *client's* AI can do it.
+
+### ~3 Years
+
+**Information Access:** Irrelevant. The role has transformed.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** No human involvement in any routine step.
+
+**Judgment/Creative:** AI generates entire photorealistic scenes from prompts.
+
+**Human Experience:** Thinning fast. The generation growing up with AI photos starts to see "hiring a photographer" differently. They find other ways to create memories.
+
+**Environment:** Compounding hard. Social media platforms auto-generate styled photos. Venues have AI staging. The entire ecosystem around photography is automating, leaving only the high-end experience niche.
 
 ## Example: Teacher
 
-| Layer | Current State | ~1 Year | ~2 Years | ~3 Years |
-|---|---|---|---|---|
-| **Information Access** | Reviews curriculum, reads textbooks, prepares lessons | AI auto-prepares lesson plans, adapts to class level | AI generates fully personalized curricula per student | AI knows each student better than any teacher could |
-| **Routing** | Communicates grades, coordinates with staff, updates records | Fully automated | Fully automated | Fully automated |
-| **Routine Actions** | Grading, creating quizzes, tracking progress | AI grades in real-time, identifies weak spots per student | AI runs continuous assessment. No more "test days" | All evaluation is continuous and invisible |
-| **Judgment/Creative** | Explaining difficult concepts, adapting to struggling students, inspiring curiosity | AI assists with targeted questions and Socratic prompts | AI handles most 1-on-1 tutoring; teacher focuses on group dynamics and mentorship | AI tutors are genuinely better at personalized teaching than most humans |
-| **Human Experience** | Kids need connection, mentorship, socialization. School is growing up, not just learning | **Still strong.** Parents and society value schools as social institutions | **Starting to shift.** Early-adopter families teach kids with AI at home. Homeschool + AI becomes a serious option | **Shifting faster than expected.** Parents who see their kid learning faster with AI start questioning classroom value. Schools feel the pressure |
-| **Environment Multiplier** | Parents, textbook publishers, and school administrators are all human-operated. The student's learning environment is mostly offline | Low direct impact. Some students start using AI tutors at home, but the classroom experience is unchanged | **Accelerating.** Students arrive with AI tutors that already know their strengths and gaps. Parents get real-time AI dashboards on their kid's progress, and they start asking: "Why is the classroom slower than what my kid gets at home?" | **Compounding hard.** Every student has a personalized AI tutor. Textbook publishers replaced by AI curricula. The teacher's role is pressured from all sides because the *environment* is now smarter than the classroom |
+### Current State
+
+**Information Access:** Reviews curriculum, reads textbooks, prepares lessons.
+
+**Routing:** Communicates grades, coordinates with staff, updates records.
+
+**Routine Actions:** Grading, creating quizzes, tracking progress.
+
+**Judgment/Creative:** Explaining difficult concepts, adapting to struggling students, inspiring curiosity.
+
+**Human Experience:** Kids need connection, mentorship, socialization. School is growing up, not just learning.
+
+**Environment:** Parents, textbook publishers, and school administrators are all human-operated. The student's learning environment is mostly offline.
+
+### ~1 Year
+
+**Information Access:** AI auto-prepares lesson plans, adapts to class level.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** AI grades in real-time, identifies weak spots per student.
+
+**Judgment/Creative:** AI assists with targeted questions and Socratic prompts.
+
+**Human Experience:** Still strong. Parents and society value schools as social institutions.
+
+**Environment:** Low direct impact. Some students start using AI tutors at home, but the classroom experience is unchanged.
+
+### ~2 Years
+
+**Information Access:** AI generates fully personalized curricula per student.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** AI runs continuous assessment. No more "test days."
+
+**Judgment/Creative:** AI handles most 1-on-1 tutoring; teacher focuses on group dynamics and mentorship.
+
+**Human Experience:** Starting to shift. Early-adopter families teach kids with AI at home. Homeschool + AI becomes a serious option.
+
+**Environment:** Accelerating. Students arrive with AI tutors that already know their strengths and gaps. Parents get real-time AI dashboards on their kid's progress, and they start asking: "Why is the classroom slower than what my kid gets at home?"
+
+### ~3 Years
+
+**Information Access:** AI knows each student better than any teacher could.
+
+**Routing:** Fully automated.
+
+**Routine Actions:** All evaluation is continuous and invisible.
+
+**Judgment/Creative:** AI tutors are genuinely better at personalized teaching than most humans.
+
+**Human Experience:** Shifting faster than expected. Parents who see their kid learning faster with AI start questioning classroom value. Schools feel the pressure.
+
+**Environment:** Compounding hard. Every student has a personalized AI tutor. Textbook publishers replaced by AI curricula. The teacher's role is pressured from all sides because the *environment* is now smarter than the classroom.
 
 ---
 
